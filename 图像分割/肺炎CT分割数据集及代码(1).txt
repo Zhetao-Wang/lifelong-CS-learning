@@ -1,0 +1,2 @@
+数据链接：https://covid-segmentation.grand-challenge.org/Download/
+Baseline：https://github.com/Project-MONAI/tutorials/tree/main/3d_segmentation/challenge_baseline
