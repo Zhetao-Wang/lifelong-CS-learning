@@ -3,3 +3,4 @@ def is_adult(age):
         raise ValueError("年龄不能为负数")
 
     return age >= 18
+ys
